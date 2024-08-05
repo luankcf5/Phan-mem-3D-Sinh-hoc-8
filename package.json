@@ -41,7 +41,7 @@
     "@mui/x-date-pickers": "^5.0.14",
     "@next/font": "^13.1.2",
     "@react-pdf/renderer": "^3.1.5",
-    "@react-three/drei": "^9.66.1",
+    "@react-three/drei": "9.70.4",
     "@react-three/fiber": "^8.13.0",
     "@react-three/postprocessing": "^2.8.3",
     "@reduxjs/toolkit": "^1.9.1",
